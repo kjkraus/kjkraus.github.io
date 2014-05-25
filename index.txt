@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Kent J. Kraus</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="readability-verification" content="9U6vZuJRnJPwZFvqM7xCNcLTzVjg9PCG8J3CuY8u"/>
+    <link rel="stylesheet" href="screen.css" media="screen,projection" type="text/css" />
+    <link href='http://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div id="container">
+<h1 id="name">Kent J. Kraus</h1>
+<div id="email">kjkraus<span id="atsign">@</span><div>outlook.com</div></div></div>
+<div id="information">
+    <em>Recent graduate of State College of Florida</em><br />
+    Bachelor of Applied Science in Technology Management<br />
+    
+    <a href="kjkraus-resume.pdf">Résumé</a> ∙ <a href="http://www.linkedin.com/in/kentkraus">LinkedIn</a> ∙ <a href="https://github.com/kjkraus">GitHub</a><br />
+    
+</div>
+
+<table class="blurb">
+    <tr><th><img src="photo.png" /></th><td><p style="margin-top:0.5em;">I am a recent graduate of the State College of Florida with a 
+Bachelor of Applied Science in Technology Management. My interests include financial services, software development, and learning
+new technologies.Recently, I have been exploring ASP.NET C# and SQL.</p>
+
+</td></tr>
+</table>
+
+
+
+<ul class="compact">
+    <li><a href="http://hackage.haskell.org/package/Cabal"
+        title="improved C build support">Cabal</a></li>
+    <li><a href="http://github.com/ezyang/git-ftp/tree/master"
+        title="quick and efficient publishing of Git repositories over FTP">git-ftp</a></li>
+    <li><a href="http://ezyang.com/wikistatus/"
+        title="user submitted status reports on Wikipedia servers">WikiStatus</a></li>
+    <li><a href="https://github.com/ezyang/ldap-haskell"
+        title="haskell bindings for OpenLDAP">ldap-haskell</a></li>
+    <li><a href="http://offlineimap.org/"
+        title="bidirectional mail synchronization over IMAP">OfflineIMAP</a></li>
+    <li><a href="http://www.impredicative.com/ur/"
+        title="compiler for statically typed web programming language">Ur/Web</a></li>
+    
+       
+</ul>
+
+</div>
+</body>
+</html>
